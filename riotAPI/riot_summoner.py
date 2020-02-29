@@ -27,7 +27,7 @@ def getSummonerMatches(name, region):
 
 def main():
 	matches = getSummonerMatches("elophantsoup", 'na1')
-	print(getSummonerInfo("Bigjonathan13", 'na1'))
+	print(getSummonerInfo("Senarity Hope", 'na1'))
 	return
 
 if __name__ == '__main__':
