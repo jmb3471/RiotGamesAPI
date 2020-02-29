@@ -14,6 +14,7 @@ def getSummonerbyName(name):
 
 def main():
 	print(getSummonerbyName("BigJonathan13"))
+	print(getSummonerbyName("elophantsoup"))
 	return
 
 if __name__ == '__main__':
